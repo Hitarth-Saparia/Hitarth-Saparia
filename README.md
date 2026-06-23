@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:1a0a2e,60:7c2d12,100:ea580c&height=280&section=header&text=Hi%2C%20I'm%20Hitarth&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%26%20AI%20%2F%20Data%20Science%20Engineer&descSize=20&descAlignY=58&descColor=fdba74&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0d0d,30:1a0a2e,60:7c2d12,100:ea580c&amp;height=280&amp;section=header&amp;text=Hi+I'm+Hitarth&amp;fontSize=58&amp;fontColor=ffffff&amp;fontAlignY=40&amp;desc=Full+Stack+%7C+AI+%2F+Data+Science&amp;descSize=20&amp;descAlignY=58&amp;descColor=fdba74&amp;animation=twinkling"/>
 
 </div>
 
@@ -173,6 +173,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 "Build things that matter. Ship things that work. Always 🔥"
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ea580c,50:7c2d12,100:0d0d0d&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:ea580c,50:7c2d12,100:0d0d0d&amp;height=100&amp;section=footer"/>
 
 </div>
