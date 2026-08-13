@@ -38,31 +38,31 @@ Software Engineering student passionate about building **intelligent web product
 <td width="50%" valign="top">
 
 ### 🌐 Full Stack Web App
-**[PrepAI](https://github.com/Hitarth-Saparia)** <!-- TODO: swap in the actual repo URL -->
+**[Project Name](https://github.com/Hitarth-Saparia)**
 
-A full-stack SaaS platform helping AI/DS students prepare for internships at top AI companies — built with Next.js 15, TypeScript, and Supabase.
+A production-ready web application with React frontend, Node.js backend, and MongoDB — featuring auth, dashboards, and real-time updates.
 
 **Highlights:**
-- 🧭 Ten features including an AI career coach and company prep pages
-- 🔍 GitHub analyzer & resume checker
-- 💸 Runs entirely on free APIs (Groq, Gemini, OpenRouter)
+- ⚡ Fast, responsive React UI with Tailwind
+- 🔐 JWT authentication & role-based access
+- 📊 Real-time data visualization
 
-`Next.js 15` `TypeScript` `Supabase`
+`React` `Node.js` `MongoDB` `Tailwind`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤖 AI / ML Project
-**[AI Reels Generator](https://github.com/Hitarth-Saparia)** <!-- TODO: swap in the actual repo URL -->
+**[Project Name](https://github.com/Hitarth-Saparia)**
 
-An automated Instagram Reels generator that turns a topic into a fully scripted, voiced, and edited short-form video — no manual editing required.
+An end-to-end machine learning system — from data cleaning and EDA to model training and REST API deployment.
 
 **Highlights:**
-- ✍️ GPT-4o-mini scripting with edge-tts voiceover
-- 🎬 Pexels API sourcing + FFmpeg/Pillow assembly
-- 🎨 Alex Hormozi-style bold text-card format
+- 🧹 Automated data preprocessing pipeline
+- 📈 Model accuracy optimization with CV
+- 🌐 Deployed as a live REST API
 
-`Python` `GPT-4o-mini` `FFmpeg` `Pillow`
+`Python` `PyTorch` `FastAPI` `Pandas`
 
 </td>
 </tr>
@@ -164,8 +164,8 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hitarth-saparia)&nbsp;
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-ea580c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:REPLACE_WITH_YOUR_EMAIL)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://REPLACE_WITH_YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-ea580c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Hitarth-Saparia)
 
 <br/><br/>
 
