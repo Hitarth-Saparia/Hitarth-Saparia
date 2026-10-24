@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,50:2b2b2b,100:9a9a9a&text=Welcome%20to%20Hitarth's%20GitHub&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=%3C%2F%3E&descAlignY=62&descSize=28" alt="Welcome to Hitarth's GitHub" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,50:2b2b2b,100:9a9a9a&text=Welcome%20to%20my%20GitHub&fontColor=ffffff&fontSize=44&fontAlignY=40&desc=Full%20Stack%20%7C%20AI%20%2F%20Data%20Science&descAlignY=62&descSize=20" alt="Welcome to my GitHub" />
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -44,7 +44,7 @@ Right now I'm working on AI-integrated web apps and sharpening my skills in LLMs
     </td>
     <td width="33%" valign="top">
       <h3>⚖️ JudgeAI</h3>
-      <p>AI-powered judging assistant that evaluates submissions and gives structured, explainable feedback. <i>(edit to match your project)</i></p>
+      <p>AI-powered judging assistant that evaluates submissions and gives structured, explainable feedback.</p>
       <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white" />
@@ -53,7 +53,7 @@ Right now I'm working on AI-integrated web apps and sharpening my skills in LLMs
     </td>
     <td width="33%" valign="top">
       <h3>📦 Warehouse Optimizer</h3>
-      <p>Optimization tool that improves warehouse layout and space usage to reduce waste and speed up operations. <i>(edit to match your project)</i></p>
+      <p>Optimization tool that improves warehouse layout and space usage to reduce waste and speed up operations.</p>
       <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=white" />
       <img src="https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=white" />
