@@ -1,69 +1,63 @@
-<!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d0d0d,50:3a1a0a,100:e8672b&text=Hitarth%20Saparia&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Full%20Stack%20%C2%B7%20AI%20%2F%20Data%20Science&descAlignY=58&descSize=20" alt="Hitarth Saparia banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,50:2b2b2b,100:9a9a9a&text=Welcome%20to%20Hitarth's%20GitHub&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=%3C%2F%3E&descAlignY=62&descSize=28" alt="Welcome to Hitarth's GitHub" />
 
-<a href="https://github.com/Hitarth-Saparia">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=E8672B&center=true&vCenter=true&width=560&lines=Building+intelligent+web+products;React+%2B+Node+%2B+Machine+Learning;Open+to+full-time+%26+freelance+roles" alt="Typing animation" />
-</a>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-e8672b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-Visit-1a1a1a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
-## ✦ About
+<h2 align="center">About me</h2>
 
-I'm a software engineering student in **Pune, India** who loves turning messy problems into clean, deployable products: a sharp React frontend, a solid API behind it, and machine learning where it genuinely adds value.
+<p align="center">
+Hello there! I'm <b><i>Hitarth Saparia</i></b>, a Software Engineering student based in Pune, India.<br/>
+I enjoy building intelligent web products, where clean frontends meet machine learning backends and data pipelines.<br/>
+Right now I'm working on AI-integrated web apps and sharpening my skills in LLMs, RAG and system design.
+</p>
 
-```text
- role      →  Full Stack Developer · AI / DS Engineer
- location  →  Pune, India  (open to remote & relocation)
- status    →  Open to full-time SDE / AI Engineer roles + freelance
- learning  →  LLM fine-tuning · RAG · System Design
-```
+<div align="center">
+
+🖥️ **Full Stack Developer** (React, Node.js, Python)<br/>
+🧠 **AI / Data Science** (PyTorch, TensorFlow, Pandas)<br/>
+📍 **Based in Pune**, open to remote & relocation<br/>
+🚀 **Open to full-time SDE / AI Engineer roles & freelance work**
+
+</div>
 
 <br/>
 
-<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
-## ✦ Featured Projects
+<h2 align="center">Projects</h2>
 
-<table>
+<table align="center">
   <tr>
     <td width="33%" valign="top">
       <h3>🏥 Medical Clinic</h3>
       <p>Modern, responsive healthcare website with online appointment booking, doctor profiles and a clear services section.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
-      </p>
+      <img src="https://img.shields.io/badge/HTML-111111?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS-111111?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white" />
+      <br/><br/>
       <a href="https://github.com/Hitarth-Saparia/medical-clinic-website-template"><b>View Repository →</b></a>
     </td>
     <td width="33%" valign="top">
       <h3>⚖️ JudgeAI</h3>
-      <p>AI-powered judging assistant that evaluates submissions and produces structured, explainable feedback. <i>(edit this line to match your project)</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black" />
-      </p>
+      <p>AI-powered judging assistant that evaluates submissions and gives structured, explainable feedback. <i>(edit to match your project)</i></p>
+      <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white" />
+      <br/><br/>
       <a href="https://github.com/Hitarth-Saparia/JudgeAI"><b>View Repository →</b></a>
     </td>
     <td width="33%" valign="top">
       <h3>📦 Warehouse Optimizer</h3>
-      <p>Optimization tool that improves warehouse layout and space usage to cut wasted space and speed up operations. <i>(edit this line to match your project)</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-      </p>
+      <p>Optimization tool that improves warehouse layout and space usage to reduce waste and speed up operations. <i>(edit to match your project)</i></p>
+      <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=white" />
+      <br/><br/>
       <a href="https://github.com/Hitarth-Saparia/warehouse-optimizer"><b>View Repository →</b></a>
     </td>
   </tr>
@@ -71,42 +65,56 @@ I'm a software engineering student in **Pune, India** who loves turning messy pr
 
 <br/>
 
-<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
-## ✦ Tech Stack
+<h2 align="center">Technologies</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TAILWIND-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/VITE-000000?style=for-the-badge&logo=vite&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FASTAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/PYTORCH-000000?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TENSORFLOW-000000?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PANDAS-000000?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NUMPY-000000?style=for-the-badge&logo=numpy&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20CODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+<br/>
+
+<h2 align="center">Statistics</h2>
 
 <div align="center">
 
-| | |
-|:--|:--|
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nextjs,vite&theme=dark" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark" /> |
-| **AI / Data** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy&theme=dark" /> |
-| **Database** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,github&theme=dark" /> |
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hitarth-Saparia&show_icons=true&hide_border=false&border_color=2b2b2b&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://streak-stats.demolab.com?user=Hitarth-Saparia&background=000000&border=2B2B2B&stroke=2B2B2B&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=9A9A9A" alt="Streak stats" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hitarth-Saparia&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=false&border_color=2b2b2b&title_color=ffffff" alt="Contribution graph" />
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════ FOCUS ═══════════════════════ -->
-## ✦ Current Focus
+<p align="center"><i>"Build things that matter. Ship things that work."</i></p>
 
-<table>
-  <tr>
-    <td align="center" width="25%"><b>📚 Learning</b><br/><sub>LLM fine-tuning<br/>RAG systems<br/>System design</sub></td>
-    <td align="center" width="25%"><b>🔨 Building</b><br/><sub>AI-powered web apps<br/>ML APIs<br/>Data dashboards</sub></td>
-    <td align="center" width="25%"><b>🔭 Exploring</b><br/><sub>Vector databases<br/>Agent frameworks<br/>Edge ML</sub></td>
-    <td align="center" width="25%"><b>🤝 Open to</b><br/><sub>Collaborations<br/>Open source<br/>Freelance work</sub></td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
-<div align="center">
-
-<i>"Build things that matter. Ship things that work."</i>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:e8672b,50:3a1a0a,100:0d0d0d&section=footer" alt="footer" />
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:9a9a9a,50:2b2b2b,100:000000&section=footer" alt="footer" />
