@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Hitarth Saparia — Full Stack Developer · AI / Data Science" width="100%" />
+<img src="profile-readme/assets/banner.svg" alt="Hitarth Saparia — Full Stack Developer · AI / Data Science" width="100%" />
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="assets/section-01.svg" alt="01 About" width="100%" />
+<img src="profile-readme/assets/section-01.svg" alt="01 About" width="100%" />
 
 > I'm a software engineering student in Pune who likes building products end to end: a clean interface, a dependable API behind it, and a machine learning model when the problem actually calls for one.
 
@@ -26,26 +26,26 @@
 
 <br/>
 
-<img src="assets/section-02.svg" alt="02 Selected Work" width="100%" />
+<img src="profile-readme/assets/section-02.svg" alt="02 Selected Work" width="100%" />
 
 <table>
 <tr>
-<td width="50%"><img src="assets/card-p-01.svg" alt="LLM-as-a-Judge Eval System" width="100%" /></td>
-<td width="50%"><img src="assets/card-p-02.svg" alt="Multi-Agent SDE Platform" width="100%" /></td>
+<td width="50%"><img src="profile-readme/assets/card-p-01.svg" alt="LLM-as-a-Judge Eval System" width="100%" /></td>
+<td width="50%"><img src="profile-readme/assets/card-p-02.svg" alt="Multi-Agent SDE Platform" width="100%" /></td>
 </tr>
 <tr>
-<td width="50%"><img src="assets/card-p-03.svg" alt="MediGuard AI" width="100%" /></td>
-<td width="50%"><img src="assets/card-p-04.svg" alt="Crop Disease Detection" width="100%" /></td>
+<td width="50%"><img src="profile-readme/assets/card-p-03.svg" alt="MediGuard AI" width="100%" /></td>
+<td width="50%"><img src="profile-readme/assets/card-p-04.svg" alt="Crop Disease Detection" width="100%" /></td>
 </tr>
 <tr>
-<td width="50%"><img src="assets/card-p-05.svg" alt="Sahakar Saathi" width="100%" /></td>
+<td width="50%"><img src="profile-readme/assets/card-p-05.svg" alt="Sahakar Saathi" width="100%" /></td>
 <td width="50%"></td>
 </tr>
 </table>
 
 <br/>
 
-<img src="assets/section-03.svg" alt="03 Toolbox" width="100%" />
+<img src="profile-readme/assets/section-03.svg" alt="03 Toolbox" width="100%" />
 
 <div align="center">
 
@@ -68,7 +68,7 @@
 
 <br/>
 
-<img src="assets/section-04.svg" alt="04 By the numbers" width="100%" />
+<img src="profile-readme/assets/section-04.svg" alt="04 By the numbers" width="100%" />
 
 <div align="center">
 
@@ -79,7 +79,7 @@
 
 <br/>
 
-<img src="assets/section-05.svg" alt="05 Right now" width="100%" />
+<img src="profile-readme/assets/section-05.svg" alt="05 Right now" width="100%" />
 
 <table>
 <tr><td><code>BUILDING</code></td><td>Agentic pipelines with human-in-the-loop control</td></tr>
@@ -90,4 +90,4 @@
 
 <br/>
 
-<img src="assets/footer.svg" alt="Designed and built by Hitarth Saparia" width="100%" />
+<img src="profile-readme/assets/footer.svg" alt="Designed and built by Hitarth Saparia" width="100%" />
