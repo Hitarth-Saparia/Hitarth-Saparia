@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="90" viewBox="0 0 1280 90">
+  <line x1="48" y1="30" x2="1232" y2="30" stroke="#34322b"/>
+  <text x="48" y="64" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="12" letter-spacing="3" fill="#8f887a">DESIGNED &amp; BUILT BY HITARTH SAPARIA</text>
+  <text x="1232" y="64" text-anchor="end" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="12" letter-spacing="3" fill="#8f887a">PUNE, INDIA <tspan fill="#c9a96e">&#9679;</tspan> 2026</text>
+</svg>
