@@ -1,129 +1,93 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:141512,100:2a2b23&text=Hitarth%20Saparia&fontColor=f1ebdf&fontSize=64&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%C2%B7%20AI%20%2F%20DATA%20SCIENCE&descColor=c9b79c&descAlignY=64&descSize=17" alt="Hitarth Saparia" />
+<img src="assets/banner.svg" alt="Hitarth Saparia — Full Stack Developer · AI / Data Science" width="100%" />
 
-<sub><i>Building intelligent products, from interface to model. &nbsp;·&nbsp; Pune, India</i></sub>
+<br/>
 
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-161714?style=for-the-badge&logo=linkedin&logoColor=c9b79c" alt="LinkedIn" /></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/EMAIL-161714?style=for-the-badge&logo=gmail&logoColor=c9b79c" alt="Email" /></a>
-<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/PORTFOLIO-161714?style=for-the-badge&logo=vercel&logoColor=c9b79c" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LINKEDIN-1b1a16?style=for-the-badge&logo=linkedin&logoColor=efe6d2&labelColor=1b1a16&color=34322b" alt="LinkedIn" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/EMAIL-1b1a16?style=for-the-badge&logo=gmail&logoColor=efe6d2&labelColor=1b1a16&color=34322b" alt="Email" /></a>
+<a href="https://your-portfolio.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-1b1a16?style=for-the-badge&logo=vercel&logoColor=efe6d2&labelColor=1b1a16&color=34322b" alt="Portfolio" /></a>
 
 </div>
 
 <br/>
 
-## `01` &nbsp;About
+<img src="assets/section-01.svg" alt="01 About" width="100%" />
 
-> I'm a software engineering student in Pune who likes building products end to end: a clean React interface, a dependable API behind it, and a machine learning model when the problem actually calls for one.
+> I'm a software engineering student in Pune who likes building products end to end: a clean interface, a dependable API behind it, and a machine learning model when the problem actually calls for one.
 
 <table>
-  <tr>
-    <td width="18%"><sub><b>ROLE</b></sub></td>
-    <td>Full Stack Developer · AI / Data Science</td>
-  </tr>
-  <tr>
-    <td><sub><b>BASED IN</b></sub></td>
-    <td>Pune, India · open to remote and relocation</td>
-  </tr>
-  <tr>
-    <td><sub><b>LEARNING</b></sub></td>
-    <td>LLM fine-tuning · RAG systems · System design</td>
-  </tr>
-  <tr>
-    <td><sub><b>OPEN TO</b></sub></td>
-    <td>Full-time SDE / AI Engineer roles · Freelance projects</td>
-  </tr>
+<tr><td><code>ROLE</code></td><td>Full Stack Developer · AI / Data Science</td></tr>
+<tr><td><code>BASED IN</code></td><td>Pune, India · open to remote and relocation</td></tr>
+<tr><td><code>STUDYING</code></td><td>B.Tech AI &amp; DS · MMCOE, Pune · Class of 2028</td></tr>
+<tr><td><code>FELLOWSHIP</code></td><td>TIH-IoT CHANAKYA Fellow</td></tr>
+<tr><td><code>SEEKING</code></td><td>Summer 2027 internships · ML, full-stack and agentic systems</td></tr>
 </table>
 
 <br/>
 
-## `02` &nbsp;Selected Work
+<img src="assets/section-02.svg" alt="02 Selected Work" width="100%" />
+
+<table>
+<tr>
+<td width="50%"><img src="assets/card-p-01.svg" alt="LLM-as-a-Judge Eval System" width="100%" /></td>
+<td width="50%"><img src="assets/card-p-02.svg" alt="Multi-Agent SDE Platform" width="100%" /></td>
+</tr>
+<tr>
+<td width="50%"><img src="assets/card-p-03.svg" alt="MediGuard AI" width="100%" /></td>
+<td width="50%"><img src="assets/card-p-04.svg" alt="Crop Disease Detection" width="100%" /></td>
+</tr>
+<tr>
+<td width="50%"><img src="assets/card-p-05.svg" alt="Sahakar Saathi" width="100%" /></td>
+<td width="50%"></td>
+</tr>
+</table>
+
+<br/>
+
+<img src="assets/section-03.svg" alt="03 Toolbox" width="100%" />
 
 <div align="center">
 
-<a href="https://github.com/Hitarth-Saparia/medical-clinic-website-template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hitarth-Saparia&repo=medical-clinic-website-template&bg_color=161714&border_color=2e2f28&title_color=c9b79c&text_color=e8dcc8&icon_color=8c8f7a" alt="Medical Clinic" /></a>
-<a href="https://github.com/Hitarth-Saparia/JudgeAI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hitarth-Saparia&repo=JudgeAI&bg_color=161714&border_color=2e2f28&title_color=c9b79c&text_color=e8dcc8&icon_color=8c8f7a" alt="JudgeAI" /></a>
-<a href="https://github.com/Hitarth-Saparia/warehouse-optimizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hitarth-Saparia&repo=warehouse-optimizer&bg_color=161714&border_color=2e2f28&title_color=c9b79c&text_color=e8dcc8&icon_color=8c8f7a" alt="Warehouse Optimizer" /></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitarth-Saparia&layout=compact&card_width=400&bg_color=161714&border_color=2e2f28&title_color=c9b79c&text_color=e8dcc8" alt="Top languages" />
+<img src="https://img.shields.io/badge/Python-22211c?style=flat-square&logo=python&logoColor=c9a96e&labelColor=22211c" />
+<img src="https://img.shields.io/badge/JavaScript-22211c?style=flat-square&logo=javascript&logoColor=c9a96e&labelColor=22211c" />
+<img src="https://img.shields.io/badge/TypeScript-22211c?style=flat-square&logo=typescript&logoColor=c9a96e&labelColor=22211c" />
+<img src="https://img.shields.io/badge/React-22211c?style=flat-square&logo=react&logoColor=c9a96e&labelColor=22211c" />
+<img src="https://img.shields.io/badge/Node.js-22211c?style=flat-square&logo=nodedotjs&logoColor=c9a96e&labelColor=22211c" />
+<img src="https://img.shields.io/badge/Flask-22211c?style=flat-square&logo=flask&logoColor=c9a96e&labelColor=22211c" />
+<img src="https://img.shields.io/badge/FastAPI-22211c?style=flat-square&logo=fastapi&logoColor=c9a96e&labelColor=22211c" />
+<img src="https://img.shields.io/badge/TensorFlow-22211c?style=flat-square&logo=tensorflow&logoColor=c9a96e&labelColor=22211c" />
+<img src="https://img.shields.io/badge/PostgreSQL-22211c?style=flat-square&logo=postgresql&logoColor=c9a96e&labelColor=22211c" />
+<img src="https://img.shields.io/badge/MongoDB-22211c?style=flat-square&logo=mongodb&logoColor=c9a96e&labelColor=22211c" />
+<img src="https://img.shields.io/badge/MySQL-22211c?style=flat-square&logo=mysql&logoColor=c9a96e&labelColor=22211c" />
+<img src="https://img.shields.io/badge/Firebase-22211c?style=flat-square&logo=firebase&logoColor=c9a96e&labelColor=22211c" />
+<img src="https://img.shields.io/badge/Docker-22211c?style=flat-square&logo=docker&logoColor=c9a96e&labelColor=22211c" />
+<img src="https://img.shields.io/badge/Git-22211c?style=flat-square&logo=git&logoColor=c9a96e&labelColor=22211c" />
 
 </div>
 
 <br/>
 
-## `03` &nbsp;Toolkit
-
-<table>
-  <tr>
-    <td width="18%"><sub><b>FRONTEND</b></sub></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-161714?style=flat-square&logo=react&logoColor=c9b79c" />
-      <img src="https://img.shields.io/badge/Next.js-161714?style=flat-square&logo=nextdotjs&logoColor=c9b79c" />
-      <img src="https://img.shields.io/badge/TypeScript-161714?style=flat-square&logo=typescript&logoColor=c9b79c" />
-      <img src="https://img.shields.io/badge/JavaScript-161714?style=flat-square&logo=javascript&logoColor=c9b79c" />
-      <img src="https://img.shields.io/badge/Tailwind-161714?style=flat-square&logo=tailwindcss&logoColor=c9b79c" />
-      <img src="https://img.shields.io/badge/Vite-161714?style=flat-square&logo=vite&logoColor=c9b79c" />
-      <img src="https://img.shields.io/badge/HTML5-161714?style=flat-square&logo=html5&logoColor=c9b79c" />
-      <img src="https://img.shields.io/badge/CSS3-161714?style=flat-square&logo=css3&logoColor=c9b79c" />
-    </td>
-  </tr>
-  <tr>
-    <td><sub><b>BACKEND</b></sub></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-161714?style=flat-square&logo=nodedotjs&logoColor=c9b79c" />
-      <img src="https://img.shields.io/badge/Express-161714?style=flat-square&logo=express&logoColor=c9b79c" />
-      <img src="https://img.shields.io/badge/Python-161714?style=flat-square&logo=python&logoColor=c9b79c" />
-      <img src="https://img.shields.io/badge/FastAPI-161714?style=flat-square&logo=fastapi&logoColor=c9b79c" />
-    </td>
-  </tr>
-  <tr>
-    <td><sub><b>AI / DATA</b></sub></td>
-    <td>
-      <img src="https://img.shields.io/badge/PyTorch-161714?style=flat-square&logo=pytorch&logoColor=c9b79c" />
-      <img src="https://img.shields.io/badge/TensorFlow-161714?style=flat-square&logo=tensorflow&logoColor=c9b79c" />
-      <img src="https://img.shields.io/badge/scikit--learn-161714?style=flat-square&logo=scikitlearn&logoColor=c9b79c" />
-      <img src="https://img.shields.io/badge/Pandas-161714?style=flat-square&logo=pandas&logoColor=c9b79c" />
-      <img src="https://img.shields.io/badge/NumPy-161714?style=flat-square&logo=numpy&logoColor=c9b79c" />
-      <img src="https://img.shields.io/badge/Jupyter-161714?style=flat-square&logo=jupyter&logoColor=c9b79c" />
-    </td>
-  </tr>
-  <tr>
-    <td><sub><b>DATA & DEVOPS</b></sub></td>
-    <td>
-      <img src="https://img.shields.io/badge/MongoDB-161714?style=flat-square&logo=mongodb&logoColor=c9b79c" />
-      <img src="https://img.shields.io/badge/PostgreSQL-161714?style=flat-square&logo=postgresql&logoColor=c9b79c" />
-      <img src="https://img.shields.io/badge/MySQL-161714?style=flat-square&logo=mysql&logoColor=c9b79c" />
-      <img src="https://img.shields.io/badge/Docker-161714?style=flat-square&logo=docker&logoColor=c9b79c" />
-      <img src="https://img.shields.io/badge/Git-161714?style=flat-square&logo=git&logoColor=c9b79c" />
-      <img src="https://img.shields.io/badge/Linux-161714?style=flat-square&logo=linux&logoColor=c9b79c" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## `04` &nbsp;Currently
-
-<table>
-  <tr>
-    <td width="33%" valign="top"><b>LEARNING</b><br/><sub>LLM fine-tuning<br/>RAG systems<br/>System design</sub></td>
-    <td width="33%" valign="top"><b>BUILDING</b><br/><sub>AI-powered web apps<br/>ML APIs<br/>Data dashboards</sub></td>
-    <td width="33%" valign="top"><b>EXPLORING</b><br/><sub>Vector databases<br/>Agent frameworks<br/>Edge ML</sub></td>
-  </tr>
-</table>
-
-<br/>
-
-## `05` &nbsp;GitHub Activity
+<img src="assets/section-04.svg" alt="04 By the numbers" width="100%" />
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hitarth-Saparia&show_icons=true&hide_border=false&border_color=2e2f28&bg_color=161714&title_color=c9b79c&text_color=e8dcc8&icon_color=8c8f7a&ring_color=c9b79c&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=Hitarth-Saparia&background=161714&border=2E2F28&stroke=2E2F28&ring=C9B79C&fire=C9B79C&currStreakNum=C9B79C&sideNums=E8DCC8&currStreakLabel=C9B79C&sideLabels=E8DCC8&dates=8C8F7A" alt="Streak" />
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:141512,100:2a2b23&text=Build%20things%20that%20matter.%20Ship%20things%20that%20work.&fontColor=c9b79c&fontSize=20&fontAlignY=50" alt="Build things that matter. Ship things that work." />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hitarth-Saparia&show_icons=true&hide_border=true&bg_color=22211c&title_color=efe6d2&icon_color=c9a96e&text_color=8f887a&ring_color=c9a96e" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitarth-Saparia&layout=compact&hide_border=true&bg_color=22211c&title_color=efe6d2&text_color=8f887a" alt="Top languages" />
 
 </div>
+
+<br/>
+
+<img src="assets/section-05.svg" alt="05 Right now" width="100%" />
+
+<table>
+<tr><td><code>BUILDING</code></td><td>Agentic pipelines with human-in-the-loop control</td></tr>
+<tr><td><code>SHIPPING</code></td><td>LLM-Judge frontend wired to its live backend</td></tr>
+<tr><td><code>EXPLORING</code></td><td>Edge-AI models that run smaller and faster</td></tr>
+<tr><td><code>AIMING AT</code></td><td>Summer 2027 internships</td></tr>
+</table>
+
+<br/>
+
+<img src="assets/footer.svg" alt="Designed and built by Hitarth Saparia" width="100%" />
