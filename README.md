@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Hitarth Saparia — Full Stack Developer · AI / Data Science" width="100%"/>
+<img src="banner.svg" alt="Hitarth Saparia — Full Stack Developer · AI / Data Science" width="100%"/>
 
 <br/>
 
@@ -21,7 +21,7 @@
 <table>
 <tr>
 <td width="210" align="center" valign="middle">
-<img src="assets/cat.svg" width="190" alt="sleepy pixel cat"/>
+<img src="cat.svg" width="190" alt="sleepy pixel cat"/>
 <br/><sub><i>me, debugging at 2 AM</i></sub>
 </td>
 <td valign="top">
@@ -160,6 +160,6 @@ Cooperative gov-services portal for household and community work, with citizen, 
 
 <sub>Got an idea, a bug, or an internship? <a href="mailto:YOUR-EMAIL@gmail.com"><b>say hi →</b></a></sub>
 
-<img src="assets/footer.svg" alt="" width="100%"/>
+<img src="footer.svg" alt="" width="100%"/>
 
 </div>
